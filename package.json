@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "example git repo for managing secret",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "npm test"
+    "test": "node test.js"
   },
   "author": "Ridwan Mohamud",
   "license": "ISC",
